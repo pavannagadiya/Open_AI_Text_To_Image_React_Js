@@ -13,6 +13,6 @@ Then you need to confir the key.
 
 Open AI API offical doc link [API DOC](https://platform.openai.com/docs/introduction)
 
-# Open_AI_Text_To_Image_React_Js
+# Open AI Text To Image React Js
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-u5m8zi)
